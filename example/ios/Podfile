@@ -17,7 +17,7 @@ target 'SharedElementExample' do
   )
 
   # Link package
-  # pod 'RNSharedElement', :path => "../.."
+  pod 'RNSharedElement', :path => "../../ios"
 
   # Uncomment to opt-in to using Flipper
   #
