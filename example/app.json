@@ -1,9 +1,0 @@
-{
-  "expo": {
-    "name": "SharedElementExample",
-    "slug": "SharedElementExample",
-    "privacy": "unlisted",
-    "version": "1.0.0",
-    "platforms": ["ios", "android", "web"]
-  }
-}
